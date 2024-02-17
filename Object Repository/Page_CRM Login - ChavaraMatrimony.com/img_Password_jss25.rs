@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Password_jss25</name>
+   <tag></tag>
+   <elementGuidId>448edcc5-0d4f-4213-a61d-ee41457c2d92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.jss25</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>322cbbef-05e0-45c9-88aa-ee7dc041dc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/VisibilityOff-a487bbd4.svg</value>
+      <webElementGuid>0ebb86ea-a6ed-40d8-b9e2-65d53fa41ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss25</value>
+      <webElementGuid>762fc962-0193-4968-8503-0a926f9701ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[@class=&quot;jss1 MuiBox-root css-0&quot;]/div[@class=&quot;jss4 MuiBox-root css-0&quot;]/div[@class=&quot;jss10 MuiBox-root css-0&quot;]/div[@class=&quot;jss11 MuiBox-root css-0&quot;]/form[1]/div[@class=&quot;MuiGrid-root css-rfnosa&quot;]/div[@class=&quot;jss23 MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth css-tzsjye&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root jss24 css-feqhe6&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-122k9dv&quot;]/div[@class=&quot;MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-outlined MuiInputAdornment-sizeMedium css-1nvf7g0&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-t67gd6&quot;]/img[@class=&quot;jss25&quot;]</value>
+      <webElementGuid>64153399-ab7b-4f7e-87ae-152bb7d274bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>7e36258c-0cf2-43af-8205-4e646114beaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/VisibilityOff-a487bbd4.svg']</value>
+      <webElementGuid>31a079b5-98f4-4e78-b69c-78bd4ac8c17e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
